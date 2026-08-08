@@ -1,59 +1,114 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Anisha+Routray;Java+Backend+Developer;Spring+Boot+%7C+DSA+%7C+Java" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=900&lines=✨+Anisha+Routray+✨;☕+Java+Backend+Developer;🌱+Spring+Boot+%7C+DSA;🚀+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Anisha+Routray;Java+Backend+Developer;Spring+Boot+%7C+Java+%7C+DSA" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anisha9876&label=Profile%20Views&color=blueviolet&style=flat" />
+  <b>☕ Java Backend Developer | 🌱 Spring Boot | 🧠 DSA</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anisha9876&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👩‍💻 About Me
 
 Hi! I'm **Anisha Routray**, a Java developer passionate about
-backend development and problem solving.
+backend development, problem solving and building real-world applications.
 
-- ☕ Java & Spring Boot
-- 🧠 Data Structures & Algorithms
-- 🗄️ MySQL & JPA/Hibernate
-- 🔗 REST APIs
-- 🌱 Currently exploring Microservices & Spring AI
-- 🚀 Building real-world projects
+- ☕ Passionate about **Java & Backend Development**
+- 🌱 Currently learning **Spring Boot & Microservices**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🗄️ Working with **MySQL, JPA & Hibernate**
+- 🔗 Building **REST APIs**
+- 🤖 Exploring **Spring AI & GenAI**
+- 🚀 Always learning and building something new
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,postman,idea" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,postman,idea,vscode" />
+
 </p>
 
 ---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-🏦 **Bank Management System**  
-Spring Boot | Java | JPA | MySQL
+<table>
+<tr>
 
-🌦️ **Weather Detection**  
-JavaScript | API | HTML | CSS
+<td width="33%" align="center">
 
-🎮 **Simon Game**  
-JavaScript | HTML | CSS
+### 🏦 Bank Management System
+
+Spring Boot banking application with:
+
+- Account management
+- Transactions
+- Deposit & withdrawal
+- MySQL database
+
+**Java • Spring Boot • JPA • MySQL**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌦️ Weather Detection
+
+Real-time weather application using an external API.
+
+**JavaScript • HTML • CSS • API**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎮 Simon Game
+
+Interactive memory game built using JavaScript.
+
+**HTML • CSS • JavaScript**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anisha9876&show_icons=true&theme=tokyonight" />
-</p>
+## 🌱 Currently Learning
 
----
+```text
+Java
+  └── Spring Boot
+       ├── Spring MVC
+       ├── Spring Data JPA
+       ├── Spring Security
+       ├── REST APIs
+       └── Microservices
 
-<p align="center">
-  <b>✨ Code • Learn • Build • Repeat ✨</b>
-</p>
+DSA
+  ├── Arrays
+  ├── Strings
+  ├── Hashing
+  ├── Binary Search
+  └── Problem Solving
+
+AI
+  └── Spring AI / GenAI
