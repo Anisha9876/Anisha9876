@@ -73,9 +73,7 @@ A travel assistance web application designed to help users explore destinations 
 
 **Key Features:**
 
-* 🌦️ Real-time weather information using an external Weather API
 * 📍 Search weather by city or destination
-* 🌡️ Displays temperature and weather conditions
 * 🧳 Helps travelers make better decisions based on current weather
 * 🔐 User registration and login with JWT-based authentication
 * 👤 User profile and account management
