@@ -82,8 +82,7 @@ A travel assistance web application designed to help users explore destinations 
 **Technologies:**
 `Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `REST API` • `JavaScript` • `HTML` • `CSS`
 
-**Project Focus:**
-Building a secure, API-integrated travel platform while practicing backend development, authentication, REST APIs, database management, and frontend integration.
+
 </td>
 <td width="33%" align="center">
 
