@@ -67,15 +67,28 @@ Spring Boot banking application with:
 
 <td width="33%" align="center">
 
-### 🌦️ Weather Detection
+### 🌍 Traveler Guide
 
-Real-time weather application using an external API.
+A travel assistance web application designed to help users explore destinations and plan their trips with useful real-time information.
 
-**JavaScript • HTML • CSS • API**
+**Key Features:**
 
+* 🌦️ Real-time weather information using an external Weather API
+* 📍 Search weather by city or destination
+* 🌡️ Displays temperature and weather conditions
+* 🧳 Helps travelers make better decisions based on current weather
+* 🔐 User registration and login with JWT-based authentication
+* 👤 User profile and account management
+* 🛡️ Secure API access using Spring Security
+
+**Technologies:**
+`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL` • `REST API` • `JavaScript` • `HTML` • `CSS`
+
+**Project Focus:**
+Building a secure, API-integrated travel platform while practicing backend development, authentication, REST APIs, database management, and frontend integration.
 </td>
-
 <td width="33%" align="center">
+
 
 ### 🎮 Simon Game
 
